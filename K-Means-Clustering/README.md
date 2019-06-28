@@ -1,7 +1,42 @@
-# Kaggle-Competitions
-Open the folders above to find the notebooks and codes
-Kaggle is an online community of data scientists and machine learners, owned by Google LLC. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Kaggle got its start by offering machine learning competitions and now also offers a public data platform, a cloud-based workbench for data science, and short form AI education.
+# Estudo de K-Means-Clustering
+Objetivo: utilizar o KMeans Clustering para agrupar Universidades em dois grupos: Privadas e Públicas.
 
-[Visit Kaggle Page](https://www.kaggle.com/)
+Os dados:
 
-![Kaggle](https://user-images.githubusercontent.com/45607797/60176871-e7973300-97ed-11e9-82b7-d0a79260f163.png)
+Usaremos um quadro de dados com 777 observações sobre as 18 variáveis a seguir.
+
+Private: Um fator com níveis Não e Sim, indicando universidade privada ou pública.
+
+Apps: Número de inscrições recebidas.
+
+Accept: Quantidade de inscrições aceitas.
+
+Enroll: Número de estudantes matriculados.
+
+Top10perc: Percentual de novos estudantes vindo do grupo de 10% melhores do segundo grau.
+
+Top25perc: Percentual de novos estudantes vindo do grupo de 25% melhores do segundo grau.
+
+F.Undergrad: Número de alunos de graduação em tempo integral.
+
+P.Undergrad Número de alunos de graduação em tempo parcial.
+
+Outstate: Aulas fora do estado.
+
+Room.Board: Custos da sala.
+
+Books: Custos de livros estimados.
+
+Personal: Estimativa de gastos por pessoa.
+
+PhD: Percentual de PHD's na universidade.
+
+Terminal: Percentual da faculdade com graduação.
+
+S.F.Ratio: Taxa estudantes/faculdade.
+
+perc.alumni: Percentual dos ex-alunos que doam.
+
+Expend: Despesas da instituição por aluno.
+
+Grad.Rate: Taxa de graduação.
