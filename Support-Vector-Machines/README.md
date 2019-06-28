@@ -1,7 +1,7 @@
-# Kaggle-Competitions
-Open the folders above to find the notebooks and codes
-Kaggle is an online community of data scientists and machine learners, owned by Google LLC. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Kaggle got its start by offering machine learning competitions and now also offers a public data platform, a cloud-based workbench for data science, and short form AI education.
+# Estudo de Support Vector Machines
 
-[Visit Kaggle Page](https://www.kaggle.com/)
+Dataset utilizado: [Íris](http://en.wikipedia.org/wiki/Iris_flower_data_set)
 
-![Kaggle](https://user-images.githubusercontent.com/45607797/60176871-e7973300-97ed-11e9-82b7-d0a79260f163.png)
+O conjunto de dados é composto por 50 amostras de cada uma das três espécies de íris (Iris setosa, Iris virginica e Iris versicolor), de modo que 150 amostras totais. Foram medidas quatro características de cada amostra: o comprimento e a largura das sépalas e pétalas, em centimetros.
+
+![iris](https://user-images.githubusercontent.com/45607797/60347620-2b2ba180-9994-11e9-8f28-7db9b33087f3.jpg)
